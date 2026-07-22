@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：panverus
 更新时间：2026-07-22
 
@@ -6,7 +6,8 @@
 // LOTR 中洲相关
 // 目前主要包含魔戒、霍比特人，书和电影内容都有（不是很全但应该主要人物和地名都包含了吧），还有一丢丢精灵宝钻
 // 相关译名主要参考魔戒中文维基：https://lotr.huijiwiki.com（但有几个是按照我习惯的译名，例如：Orcrist：兽咬剑）
-// 分类不是很严谨可能还有点混乱，如果有错误我很抱歉，请别介意
+// ！！人名基本上是禁翻的除了少数几个（因为个人习惯喜欢看原名而且可以规避不同版本翻译造成的差异）
+// 分类不是很严谨还有点混乱，如果有错误我很抱歉，请别介意（顶锅盖跑走）
 // ============================================
 
 词条
@@ -198,6 +199,7 @@ Dwarves：矮人
 Hobbits：霍比特人
 Ents：恩特
 Orcs：奥克
+Half-orcs：半奥克
 Trolls：食人妖
 Goblins:哥布林
 Eagles：大鹰
@@ -241,7 +243,27 @@ Khuzdul：库兹都语
 Durin's Day：都林之日
 Thain：长官
 Burglar：飞贼
+Ravens：渡鸦
 Strider：大步佬
+Eru Ilúvatar：伊露维塔
+Valar：维拉
+Maiar：迈雅
+Mahal：玛哈尔
+Aulë：奥力
+Yavanna：雅凡娜
+Morgoth：魔苟斯
+Smaug：史矛革
+Witch-king of Angmar：安格玛巫王
+Gollum：咕噜
+Sauron：索隆
+Durin：都林
+River-woman：河婆
+Tom Bombadil：汤姆·邦巴迪尔
+Goldberry：金莓
+Great Eagle：鹰王
+Shadowfax：捷影
+Snowmane：雪鬃
+Arod：阿罗德
 
 
 // ============================================================
@@ -258,12 +280,12 @@ dark tower：暗黑塔
 
 // ============================================================
 // 禁翻词条区（区分大小写）
-// 人名全部禁翻，含姓氏及氏族名
+// 人名全部禁翻除了少数几个，含姓氏及氏族名
 // ============================================================
 禁翻词条
 
 
-// ----- 巫师 & 迈雅（含别名）-----
+// -----  巫师 & 迈雅（含别名）-----
 Gandalf
 Mithrandir
 Olórin
@@ -272,7 +294,6 @@ Incanus
 Tharkûn
 Saruman
 Radagast
-Sauron
 
 // ----- 精灵（含主要角色）-----
 // 半精灵及第三纪元
@@ -344,6 +365,7 @@ Ingwë
 Indis
 Eärwen
 
+
 // ----- 霍比特人姓氏（主要角色）-----
 Baggins
 Brandybuck
@@ -361,6 +383,7 @@ Samwise
 Samwise Gamgee
 Merry
 Merry Brandybuck
+Meriadoc Brandybuck
 Pippin
 Peregrin Took
 Bilbo
@@ -385,8 +408,7 @@ Folco Boffin         // 弗罗多朋友
 Fredegar Bolger      // 胖子博尔格
 Farmer Maggot        // 麦格特农夫
 
-// ----- 矮人（主要角色）-----
-Durin               
+// ----- 矮人（主要角色）-----               
 Thorin
 Thorin Oakenshield
 Fíli
@@ -399,8 +421,8 @@ Bombur
 Dori
 Nori
 Ori
-Oin
-Gloin
+Óin
+Glóin
 Dáin
 Dáin Ironfoot
 Thrór
@@ -410,11 +432,15 @@ Dís
 Gimli
 Náin
 
-// ----- 人类（刚铎、洛汗、戴尔等）-----
+// ----- 人类（刚铎、洛汗、河谷城等）-----
 Aragorn
+Estel
+Thorongil
+Elessar
 Boromir
 Faramir
 Denethor
+Denethor II
 Théoden
 Éomer
 Éowyn
@@ -437,20 +463,25 @@ Eärendil
 Elwing
 Idril
 Ecthelion
+Arathorn II
+Gilraen
 
-// ----- 其他反派与生物-----
-Gollum
+// ----- 其他-----
 Sméagol
 Shelob
 Azog
 Bolg
-Smaug
-
-// ----- 恩特等-----
 Treebeard
 Quickbeam
-Tom Bombadil
 Goldberry
+
+// ----- 电影原创-----
+Tauriel
+Alfrid Lickspittle    //长湖镇副镇长
+Sigrid                //巴德之女
+Tilda                 //巴德之女
+Bain                  //巴德之子
+
 
 // ============================================================
 // 正则表达式区
@@ -472,3 +503,5 @@ Goldberry
 (?i)[Oo]l[óo]rin
 (?i)Fing[oó]lfin 
 (?i)Finw[ëe]  
+(?i)[Oó]in         
+(?i)Gl[óo]in  
