@@ -1,0 +1,474 @@
+版本号：1.0.1
+维护者：panverus
+更新时间：2026-07-22
+
+// ============================================
+// LOTR 中洲相关
+// 目前主要包含魔戒、霍比特人，书和电影内容都有（不是很全但应该主要人物和地名都包含了吧）
+// 相关译名主要参考魔戒中文维基：https://lotr.huijiwiki.com（但有几个是按照我习惯的译名，例如：Dale戴尔）
+// 分类不是很严谨可能还有点混乱，如果有错误我很抱歉，请别介意
+// ============================================
+
+词条
+// 此区域区分大小写，用于翻译地名等专有名词
+// ---------- 王国与地区 ----------
+Arnor：阿尔诺
+Gondor：刚铎
+Mordor：魔多
+Rohan：洛汗
+Eriador：埃利阿多
+Rhovanion：罗瓦尼安
+Mirkwood：幽暗密林
+Lothlorien：洛丝罗瑞恩
+Rivendell：幽谷
+The Shire：夏尔
+Buckland：雄鹿地
+Lonely Mountain：孤山
+Kingdom under the Mountain：山下王国
+Grey Mountains：灰色山脉
+Iron Hills：铁丘陵
+Belegost：贝烈戈斯特
+Glittering Caves：晶辉洞
+Nogrod：诺格罗德
+Ithilien：伊希利恩
+Lebennin：莱本宁
+Anfalas：安法拉斯
+Andrast：安德拉斯特
+Enedwaith：埃奈德地区
+Dunland：黑蛮地
+Forlindon：佛林顿
+Harlindon：哈林顿
+Gondolin：刚多林
+Woodland Realm：黑森林王国
+Númenor：努门诺尔
+Mount Gundabad：贡达巴德山
+Rhudaur：鲁道尔
+Kingdom of Dale：河谷邦
+
+// ---------- 城市与要塞 ----------
+Minas Tirith：米那斯提力斯
+Minas Morgul：米那斯魔古尔
+Minas Ithil：米那斯伊希尔
+Osgiliath：欧斯吉利亚斯
+Pelargir：佩拉基尔
+Barad-dûr：巴拉督尔
+Cirith Ungol：奇立斯乌苟
+Hornburg：号角堡
+Helm's Deep：海尔姆深谷
+Dol Amroth：多阿姆洛斯
+Edhellond：埃蒂尔泷德
+Harlond：哈泷德
+Linhir：林希尔
+Calembel：卡伦贝尔
+Tarnost：塔尔诺斯特
+Tharbad：沙巴德
+Umbar：乌姆巴尔
+Dale：河谷城
+Erebor：埃瑞博
+Dol Guldur：多古尔都
+Angmar：安格玛
+Bree：布理
+Fornost：佛诺斯特
+Annúminas：安努米那斯
+Khazad-dûm：卡扎督姆
+Moria：摩瑞亚
+Grey Havens：灰港
+Hobbiton：霍比屯
+Bywater：傍水镇
+Lake-town：长湖镇
+
+
+// ---------- 山川河流丘陵 ----------
+Anduin：安都因河
+Misty Mountains：迷雾山脉
+White Mountains：白色山脉
+Blue Mountains：蓝色山脉
+Ered Luin：蓝色山脉
+Ravenhill：渡鸦岭
+Mount Doom：末日火山
+Ephel Dúath：埃斐尔度阿斯
+Ered Lithui：埃瑞德砾苏伊
+Caradhras：卡拉霍拉斯
+Celebdil：凯勒布迪尔
+Fanuidhol：法怒德霍尔
+Baranduin：白兰地河
+Brandywine River：白兰地河
+Entwash：恩特河
+Isen：艾森河
+Snowbourn：雪河
+Mering Stream：墨松德河
+Erui：埃茹伊河
+Ringló：凛格罗河
+Gilrain：吉尔莱恩河
+Harnen：哈尔能河
+Poros：波罗斯河
+Celos：凯洛斯河
+Serni：色尔尼河
+Sirith：西瑞斯河
+Morgulduin：魔古尔都因河
+Amon Hen：阿蒙汉
+Amon Lhaw：阿蒙肖
+Amon Dîn：阿蒙丁
+Eilenach：艾莱那赫
+Nardol：纳多
+Erelas：埃瑞拉斯
+Min-Rimmon：明里蒙
+Calenhad：卡伦哈德
+Halifirien：哈利菲瑞恩
+Mindolluin：明多路因
+Dol Tarlang：多塔朗
+Cuvileg：库维列格
+Cubin：库宾
+Ras Morthil：拉斯墨希尔
+Emyn Muil：埃敏穆伊丘陵
+Emyn Arnen：埃敏阿尔能丘陵
+Weather Hills：风云丘陵
+Weathertop：风云顶
+Barrow-downs：古冢岗
+South Downs：南岗
+Tower Hills：塔丘
+Far Downs：远岗
+Green Hills：绿丘陵
+
+// ---------- 森林与水域 ----------
+Fangorn Forest：法贡森林
+Old Forest：老林子
+Druadan Forest：德鲁阿丹森林
+Grey Wood：灰森林
+Nindalf：宁达尔夫
+Nen Hithoel：能希斯艾尔湖
+Forbidden Pool：禁忌之潭
+Ringló Lough：凛格能湖
+Rauros：涝洛斯
+Bay of Belfalas：贝尔法拉斯湾
+Cobas Haven：科巴斯港
+Swanfleet：天鹅泽
+Midgewater Marshes：蚊水泽
+Dead Marshes：死亡沼泽
+
+// ---------- 岛屿与渡口 ----------
+Cair Andros：凯尔安德洛斯
+Tolfalas：托尔法拉斯
+Tol Brandir：托尔布兰迪尔
+Sarn Gebir：萨恩盖比尔
+Undertowers：下塔
+Erui Ford：埃茹伊河渡口
+Poros Ford：波罗斯河渡口
+Crossings of Erui：埃茹伊河渡口
+Cross-roads：十字路口
+
+// ---------- 道路与关口 ----------
+Great East Road：东大道
+Greenway：绿道
+North-South Road：南北大道
+West Road：西大道
+South Road：南大道
+Old South Road：南大道
+Morgul-road：魔古尔路
+Harad Road：哈拉德路
+North Stair：北阶梯
+Path of the Dead：亡者之路
+Gondrant：刚德兰特
+Tarlang's Neck：塔朗颈
+
+// ---------- 建筑与遗迹 ----------
+Bag End：袋底洞
+Rammas Echor：拉马斯埃霍尔
+Argonath：阿刚那斯
+White Pillar：白柱
+Tomb of Elendil：埃兰迪尔之墓
+Mundburg：蒙德堡
+Haudh-in-Gwanûr：豪兹-因-格瓦努尔
+Orthanc：欧尔桑克
+Isengard：艾森加德
+Angrenost：安格瑞诺斯特
+Aglarond：阿格拉隆德
+Henneth Annûn：汉奈斯安努恩
+Durthang：杜尔桑
+Carach Angren：卡霍斯特
+Narchost：纳霍斯特
+Brandy Hall：白兰地厅
+Green Dragon：绿龙酒馆
+
+// ---------- 种族 ----------
+Ainur：爱努
+Elves：精灵
+Men：人类
+Dwarves：矮人
+Hobbits：霍比特人
+Ents：恩特
+Orcs：奥克
+Trolls：食人妖
+Goblins:哥布林
+Eagles：大鹰
+Dragons：恶龙
+Wolves：恶狼
+Spiders：蜘蛛
+Nazgûl：那兹古尔
+Uruk-hai：乌鲁克
+Wargs：座狼
+Balrogs：炎魔
+Werewolves：妖狼
+
+// ---------- 武器与器物 ----------
+Glamdring：格拉姆德凛
+Gurthang：古尔桑
+Dagmor：达格墨
+Eket：埃凯特
+Morgul-blade：魔窟剑
+Orcrist：兽咬剑
+Sting：刺叮
+Andúril：安督利尔
+Narsil：纳熙尔
+Aeglos：埃格洛斯
+Anglachel：安格拉赫尔
+The One Ring：至尊戒
+
+// ---------- 其他专用术语和常用翻译 ----------
+Palantíri：帕蓝提尔
+Silmarils：精灵宝钻
+Arkenstone：阿肯宝钻
+Mithril：秘银
+Lembas：兰巴斯
+Miruvor：米卢沃尔
+Elven-cloak：精灵斗篷
+Black Speech：黑语
+Westron：西部语
+Orkish：奥克语
+Sindarin：辛达语
+Quenya：昆雅语
+Khuzdul：库兹都语
+Durin's Day：都林之日
+Thain：长官
+Burglar：飞贼
+Strider：大步佬
+
+
+// ============================================================
+// 通用词条区（不区分大小写）
+// ============================================================ 
+通用词条
+
+middle-earth：中洲
+middle earth：中洲
+ringwraith：戒灵
+ring-wraith：戒灵
+dark lord：黑暗魔君
+dark tower：暗黑塔
+
+// ============================================================
+// 禁翻词条区（区分大小写）
+// 人名全部禁翻，含姓氏及氏族名
+// ============================================================
+禁翻词条
+
+
+// ----- 巫师 & 迈雅（含别名）-----
+Gandalf
+Mithrandir
+Olórin
+Olorin
+Incanus
+Tharkûn
+Saruman
+Radagast
+Sauron
+
+// ----- 精灵（含主要角色）-----
+// 半精灵及第三纪元
+Elrond
+Arwen
+Elladan
+Elrohir
+Galadriel
+Celeborn
+Legolas
+Thranduil
+Glorfindel
+Círdan
+Gil-galad
+Elros
+
+// 第一纪元诺多族（芬威家族）
+Finwë
+Fëanor
+Maedhros
+Maglor
+Celegorm
+Caranthir
+Curufin
+Amrod
+Amras
+Fingolfin
+Fingon
+Turgon
+Aredhel
+Argon
+Idril
+Ecthelion
+Glorfindel
+Rog
+Egalmoth
+Galdor
+Duilin
+Penlod
+Salgant
+Erestor
+Finarfin
+Finrod
+Felagund
+Angrod
+Aegnor
+Orodreth
+Galadriel
+Celeborn
+
+// 辛达族（灰精灵）
+Thingol
+Melian
+Lúthien
+Dior
+Nimloth
+Elwing
+Celeborn
+Oropher
+Thranduil
+Legolas
+Saeros
+Mablung
+Beleg
+Cúthalion
+
+// 凡雅族（光明精灵）
+Ingwë
+Indis
+Eärwen
+
+// ----- 霍比特人姓氏（主要角色）-----
+Baggins
+Brandybuck
+Took
+Gamgee
+Bolger
+Proudfoot
+Sackville-Baggins    
+ 
+// ----- 霍比特人（主要角色和一些同人里常出现的亲戚）-----
+Frodo
+Frodo Baggins
+Sam
+Samwise
+Samwise Gamgee
+Merry
+Merry Brandybuck
+Pippin
+Peregrin Took
+Bilbo
+Bilbo Baggins
+Belladonna Took       // 比尔博之母，图克家族族长之女
+Bungo Baggins         // 比尔博之父，以建造袋底洞闻名
+Bingo Baggins         // 比尔博的堂侄，原为弗罗多的早期命名原型
+Otho Sackville-Baggins // 比尔博的堂弟，觊觎袋底洞
+Lobelia Sackville-Baggins //Otho 之妻，曾偷窃比尔博的餐具
+Rosie Cotton          //山姆的恋人/妻子，夏尔人
+Hamfast Gamgee       // 山姆之父
+Gaffer Gamgee        // 老甘姆吉（昵称）
+Drogo Baggins        // 弗罗多之父
+Primula Brandybuck   // 弗罗多之母
+Rory Brandybuck      // 梅里祖父
+Saradoc Brandybuck   // 梅里之父
+Esmeralda Took       // 梅里之母
+Paladin Took         // 皮平之父
+Eglantine Took       // 皮平之母
+Angelica Baggins     // 比尔博堂侄女
+Folco Boffin         // 弗罗多朋友
+Fredegar Bolger      // 胖子博尔格
+Farmer Maggot        // 麦格特农夫
+
+// ----- 矮人（主要角色）-----
+Durin               
+Thorin
+Thorin Oakenshield
+Fíli
+Kíli
+Balin
+Dwalin
+Bifur
+Bofur
+Bombur
+Dori
+Nori
+Ori
+Oin
+Gloin
+Dáin
+Dáin Ironfoot
+Thrór
+Thráin
+Frerin
+Dís
+Gimli
+Náin
+
+// ----- 人类（刚铎、洛汗、戴尔等）-----
+Aragorn
+Boromir
+Faramir
+Denethor
+Théoden
+Éomer
+Éowyn
+Bard
+Brand
+Beorn
+Eärnur
+Anárion
+Isildur
+Elendil
+Tar-Minastir
+Ar-Pharazôn
+Amandil
+Tuor
+Túrin
+Húrin
+Beren
+Dior
+Eärendil
+Elwing
+Idril
+Ecthelion
+
+// ----- 其他反派与生物-----
+Gollum
+Sméagol
+Shelob
+Azog
+Bolg
+Smaug
+
+// ----- 恩特等-----
+Treebeard
+Quickbeam
+Tom Bombadil
+Goldberry
+
+// ============================================================
+// 正则表达式区
+// ============================================================
+正则表达式
+(?i)F[ií]li
+(?i)K[ií]li
+(?i)[Eé]omer
+(?i)[Eé]owyn
+(?i)[Tt]h[eé]oden
+(?i)L[uú]thien
+(?i)E[äa]rendil
+(?i)E[äa]rnur
+(?i)Ar-Pharaz[ôo]n
+(?i)H[uú]rin
+(?i)T[uú]rin
+(?i)F[ëe]anor
+(?i)Thr[áa]in
+(?i)[Oo]l[óo]rin
+(?i)Fing[oó]lfin 
+(?i)Finw[ëe]  
