@@ -1,4 +1,4 @@
-版本号：1.0.7
+版本号：1.0.8
 维护者：panverus
 更新时间：2026-07-23
 
@@ -57,6 +57,18 @@ Doriath：多瑞亚斯
 Hithlum：希斯路姆
 Belfalas：贝尔法拉斯
 Pelennor Fields：佩兰诺平野
+Beleriand：贝烈瑞安德
+Ossiriand：欧西瑞安德
+Nevrast：奈芙拉斯特
+Dorthonion：多松尼安
+Dor-lómin：多尔罗明
+Arvernien：阿维尼恩
+Thargelion：沙盖理安
+Dimbar：丁巴尔
+Estolad：埃斯托拉德
+Gorgoroth：戈埚洛斯
+Falas：法拉斯
+Lammoth：拉莫斯
 
 // ---------- 城市与要塞 ----------
 Minas Tirith：米那斯提力斯
@@ -90,13 +102,25 @@ Hobbiton：霍比屯
 Bywater：傍水镇
 "Lake-town"：长湖镇
 Black Gate：黑门
+Tirion upon Túna: 提力安城
+Dunharrow：黑蛮祠
+Gondolin：刚多林
+Menegroth：明霓国斯
+Nargothrond：纳国斯隆德
+Vinyamar：温雅玛
+Brithombar：布砾松巴尔
+Eglarest：埃格拉瑞斯特
+Barad Nimras：巴拉德宁拉斯
+Edoras：伊多拉斯
+Barad Eithel：巴拉德艾塞尔
+Eithel Sirion：艾塞尔西瑞安
 
 // ---------- 山川河流丘陵 ----------
 Anduin：安都因河
 Misty Mountains：迷雾山脉
 White Mountains：白色山脉
-Blue Mountains：蓝山
-Ered Luin：蓝山
+Blue Mountains：蓝色山脉
+Ered Luin：蓝色山脉
 Ravenhill：渡鸦岭
 Mount Doom：末日火山
 Ephel Dúath：埃斐尔度阿斯
@@ -145,6 +169,16 @@ Green Hills：绿丘陵
 Cerin Amroth：凯林阿姆洛斯
 Amon Rûdh：阿蒙如兹
 Thangorodrim：桑戈洛锥姆
+Taniquetil: 塔尼魁提尔山
+Ered Gorgoroth：埃瑞德戈埚洛斯
+Ered Wethrin：埃瑞德威斯林
+Ered Lómin：埃瑞德罗明
+Crissaegrim：克瑞赛格林
+Gelion：盖理安河
+Narog：纳洛格河
+Teiglin：泰格林河
+Esgalduin：埃斯加尔都因河
+Aros：阿洛斯河
 
 // ---------- 森林与水域 ----------
 Fangorn Forest：法贡森林
@@ -162,6 +196,15 @@ Swanfleet：天鹅泽
 Midgewater Marshes：蚊水泽
 Dead Marshes：死亡沼泽
 Mirrormere：镜影湖
+Alqualondë: 天鹅港
+Wellinghall: 威灵霍尔
+Derndingle: 德恩丁格尔
+Aeluin：艾路因湖
+Ivrin：伊芙林泉
+Linaewen：利耐温湖
+Nan Elmoth：南埃尔莫斯
+Nan Dungortheb：南顿埚塞布
+Tol Sirion：托尔西瑞安
 
 // ---------- 岛屿与渡口 ----------
 Cair Andros：凯尔安德洛斯
@@ -173,6 +216,7 @@ Erui Ford：埃茹伊河渡口
 Poros Ford：波罗斯河渡口
 Crossings of Erui：埃茹伊河渡口
 "Cross-roads"：十字路口
+Almaren：阿尔玛仁岛
 
 // ---------- 道路与关口 ----------
 Great East Road：东大道
@@ -188,6 +232,10 @@ Path of the Dead：亡者之路
 Gondrant：刚德兰特
 "Tarlang's Neck"：塔朗颈
 Cirith Gorgor：奇立斯戈埚
+Erech: 埃瑞赫
+Sarn Athrad：萨恩阿斯拉德
+Pass of Aglon：阿格隆隘口
+Firth of Drengist：专吉斯特狭湾
 
 // ---------- 建筑与遗迹 ----------
 Bag End：袋底洞
@@ -207,6 +255,7 @@ Carach Angren：卡霍斯特
 Narchost：纳霍斯特
 Brandy Hall：白兰地厅
 Green Dragon：绿龙酒馆
+Halls of Mandos: 曼督斯殿堂
 
 // ---------- 其他专用术语和常用翻译 ----------
 Palantíri：帕蓝提尔
@@ -235,7 +284,6 @@ Shadowfax：捷影
 Snowmane：雪鬃
 Arod：阿罗德
 Ancalagon：黑龙安卡拉刚
-Men：人类
 
 
 // ============================================================
@@ -274,6 +322,7 @@ Phial of Galadriel：加拉德瑞尔水晶瓶
 "Dragon-helm of Dor-lómin"：多尔罗明龙盔
 
 // ---------- 种族 ----------
+Men：人类
 elf: 精灵
 elves: 精灵
 dwarf: 矮人
@@ -308,7 +357,7 @@ middle earth：中洲
 ringwraith：戒灵
 "ring-wraith"：戒灵
 dark lord：黑暗魔君
-The Necromancer: 死灵法师
+Necromancer: 死灵法师
 dark tower：暗黑塔
 "barrow-wight"：古冢尸妖
 "horse-lords"：洛汗骠骑
@@ -463,13 +512,28 @@ Ri
 // 霍比特人（主要角色和亲戚）
 Bilbo
 Bilbo Baggins
-Belladonna      // 比尔博之母，图克家族族长之女
-Bungo           // 比尔博之父，以建造袋底洞闻名
-Bingo           // 比尔博的堂侄
-Otho            // 比尔博的堂弟，觊觎袋底洞
-Lobelia         //Otho之妻，曾偷窃比尔博的餐具
-Gerontius       //比尔博的外祖父，图克家族族长
-Bullroarer      //比尔博的曾伯祖父
+Belladonna
+Belladonna Took
+Bungo
+Bungo Baggins
+Bingo
+Bingo Baggins
+Dora
+Dora Baggins
+Balbo
+Balbo Baggins
+Mungo
+Mungo Baggins
+Otho
+Otho Sackville-Baggins
+Lobelia
+Lobelia Sackville-Baggins
+Lotho
+Lotho Sackville-Baggins
+Gerontius
+Gerontius Took
+Bullroarer
+Bullroarer Took
 // 人类
 Bard
 Brand
@@ -486,6 +550,7 @@ Took
 Gamgee
 Bolger
 Proudfoot
+Bracegirdle
 "Sackville-Baggins"
 // 霍比特人（主要角色及部分亲戚）
 Frodo
@@ -498,20 +563,34 @@ Merry Brandybuck
 Meriadoc Brandybuck
 Pippin
 Peregrin Took
-Rosie Cotton     //山姆的恋人/妻子，夏尔人
-Hamfast          // 山姆之父
-Gaffer           // 老甘姆吉（昵称）
-Drogo            // 弗罗多之父
-Primula          // 弗罗多之母
-Rory             // 梅里祖父
-Saradoc          // 梅里之父
-Esmeralda        // 梅里之母
-Paladin          // 皮平之父
-Eglantine        // 皮平之母
-Angelica         // 比尔博堂侄女
-Folco Boffin     // 弗罗多朋友
-Fredegar         // 梅里的大舅子,弗罗多朋友
-Farmer Maggot    // 麦格特农夫
+Sméagol
+Rosie
+Rosie Cotton
+Hamfast
+Hamfast Gamgee
+Gaffer
+Gaffer Gamgee
+Drogo
+Drogo Baggins
+Primula
+Primula Brandybuck
+Rory
+Rory Brandybuck
+Saradoc
+Saradoc Brandybuck
+Esmeralda
+Esmeralda Took
+Paladin
+Paladin Took
+Eglantine
+Eglantine Took
+Angelica
+Angelica Baggins
+Folco
+Folco Boffin
+Fredegar
+Fredegar Bolger
+Farmer Maggot
 // 矮人            
 Gimli
 // 精灵
@@ -551,9 +630,9 @@ Eorl
 Gríma Wormtongue
 Beregond
 Théodred
+Eldarion
 // 其他
 Sauron
-Sméagol
 Shelob
 Khamûl
 Ugluk
@@ -563,10 +642,10 @@ Quickbeam
 
 // ---------- 电影原创 ----------
 Tauriel
-Alfrid Lickspittle    //长湖镇副镇长
-Sigrid                //巴德之女
-Tilda                 //巴德之女
-Bain                  //巴德之子
+Alfrid Lickspittle    
+Sigrid                 
+Tilda                  
+Bain                   
 
 
 // ============================================================
@@ -600,3 +679,4 @@ Bain                  //巴德之子
 \bE[öo]l\b: Eöl
 \bGr[íi]ma\b: Gríma
 \b[ÉE]odred\b: Théodred
+\bSm[ée]agol\b
