@@ -1,4 +1,4 @@
-版本号：1.0.4
+版本号：1.0.5
 维护者：panverus
 更新时间：2026-07-23
 
@@ -272,6 +272,7 @@ Shadowfax：捷影
 Snowmane：雪鬃
 Arod：阿罗德
 Ancalagon：黑龙安卡拉刚
+Men：人类
 
 
 // ============================================================
@@ -365,7 +366,6 @@ Saruman
 Radagast
 // 精灵
 Thranduil
-Legolas
 Círdan
 Galadriel
 Celeborn
@@ -447,12 +447,15 @@ Farmer Maggot        // 麦格特农夫
 // 矮人            
 Gimli
 // 精灵
+Legolas
+Legolas Greenleaf
 Elrond
 Arwen
 Elladan
 Elrohir
 "Gil-galad"
 Elros
+Peredhel
 // 人类 （刚铎/洛汗/努门诺尔）
 Aragorn
 Estel
@@ -519,24 +522,23 @@ Bain                  //巴德之子
 \bGl[óo]in\b: Glóin
 
 // ---------- 种族单复数和变体 ----------
-\bM(?:an|en)\b : 人类
-\b(?i)E(?:lf|lves)\b : 精灵
-\b(?i)Dwar(?:f|ves)\b : 矮人
-\b(?i)Hobbi(?:t|ts)\b : 霍比特人
-\b(?i)En(?:t|ts)\b : 恩特
-\b(?i)Or(?:c|cs)\b : 奥克
-\b(?i)Half-or(?:c|cs)\b : 半奥克
-\b(?i)Trol(?:l|ls)\b : 食人妖
-\b(?i)Gobli(?:n|ns)\b : 哥布林
-\b(?i)Eagl(?:e|es)\b : 大鹰
-\b(?i)War(?:g|gs)\b : 座狼
-\b(?i)Balro(?:g|gs)\b : 炎魔
-\b(?i)Werew(?:olf|olves)\b : 妖狼
-\b(?i)Uruk-hai\b : 乌鲁克
-\b(?i)Nazg[ûu]l\b : 那兹古尔
+\b[Ee](?:lf|lves)\b: 精灵
+\b[Dd]war(?:f|ves)\b: 矮人
+\b[Hh]obbi(?:t|ts)\b: 霍比特人
+\b[Ee]n(?:t|ts)\b: 恩特
+\b[Oo]r(?:c|cs)\b: 奥克
+\b[Hh]alf-or(?:c|cs)\b: 半奥克
+\b[Tt]rol(?:l|ls)\b: 食人妖
+\b[Gg]obli(?:n|ns)\b: 哥布林
+\b[Ee]agl(?:e|es)\b: 大鹰
+\b[Ww]ar(?:g|gs)\b: 座狼
+\b[Bb]alro(?:g|gs)\b: 炎魔
+\b[Ww]erew(?:olf|olves)\b: 妖狼
+\b[Uu]ruk-hai\b: 乌鲁克
+\b[Nn]azg[ûu]l\b: 那兹古尔
 
 //---------- 其他 ----------
-\b(?i)Silmari(?:l|ls)\b：精灵宝钻
-\b(?i)Rave(?:n|ns)\b: 渡鸦
+\b[Ss]ilmari(?:l|ls)\b: 精灵宝钻
+\b[Rr]ave(?:n|ns)\b: 渡鸦
  
  
