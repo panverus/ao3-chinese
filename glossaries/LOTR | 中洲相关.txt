@@ -1,4 +1,4 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：panverus
 更新时间：2026-07-23
 
@@ -211,6 +211,7 @@ Green Dragon：绿龙酒馆
 // ---------- 其他专用术语和常用翻译 ----------
 Palantíri：帕蓝提尔
 Silmarils：精灵宝钻
+Silmaril：精灵宝钻
 Arkenstone：阿肯宝钻
 "Durin's Day"：都林之日
 Thain：夏尔长官
@@ -271,6 +272,35 @@ Ring of Barahir：巴拉希尔之戒
 Phial of Galadriel：加拉德瑞尔水晶瓶
 "Star-glass"：星光水晶瓶
 "Dragon-helm of Dor-lómin"：多尔罗明龙盔
+
+// ---------- 种族 ----------
+elf: 精灵
+elves: 精灵
+dwarf: 矮人
+dwarves: 矮人
+dwarrow: 矮人
+hobbit: 霍比特人
+hobbits: 霍比特人
+ent: 恩特
+ents: 恩特
+orc: 奥克
+orcs: 奥克
+half-orc: 半奥克
+half-orcs: 半奥克
+troll: 食人妖
+trolls: 食人妖
+goblin: 哥布林
+goblins: 哥布林
+warg: 座狼
+wargs: 座狼
+balrog: 炎魔
+balrogs: 炎魔
+werewolf: 妖狼
+werewolves: 妖狼
+nazgul: 那兹古尔
+nazgûl: 那兹古尔
+raven: 渡鸦
+ravens: 渡鸦
 
 // ---------- 其他 ----------
 "middle-earth"：中洲
@@ -570,24 +600,3 @@ Bain                  //巴德之子
 \bE[öo]l\b: Eöl
 \bGr[íi]ma\b: Gríma
 \b[ÉE]odred\b: Théodred
-
-// ---------- 种族单复数和变体 ----------
-(?i)\bElf(?:|ves)\b: 精灵
-(?i)\bDwarf(?:|ves)\b: 矮人
-(?i)\bHobbit(?:|ts)\b: 霍比特人
-(?i)\bEnt(?:|ts)\b: 恩特
-(?i)\bOrc(?:|cs)\b: 奥克
-(?i)\bHalf-orc(?:|cs)\b: 半奥克
-(?i)\bTroll(?:|ls)\b: 食人妖
-(?i)\bGoblin(?:|ns)\b: 哥布林
-(?i)\bEagle(?:|es)\b: 大鹰
-(?i)\bWarg(?:|gs)\b: 座狼
-(?i)\bBalrog(?:|gs)\b: 炎魔
-(?i)\bWerewolf(?:|ves)\b: 妖狼
-(?i)\bNazg[ûu]l\b: 那兹古尔
-
-//---------- 其他 ----------
-(?i)\bSilmaril(s)?\b: 精灵宝钻
-(?i)\bRaven(s)?\b: 渡鸦
- 
- 
