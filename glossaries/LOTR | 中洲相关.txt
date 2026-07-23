@@ -1,13 +1,13 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：panverus
-更新时间：2026-07-22
+更新时间：2026-07-23
 
 // ============================================
 // LOTR 中洲相关
-// 目前主要包含魔戒、霍比特人，书和电影内容都有（不是很全但应该主要人物和地名都包含了吧），还有一丢丢精灵宝钻
+// 目前主要包含魔戒、霍比特人，书和电影内容都有，还有一丢丢精灵宝钻（不是很全但应该主要人物和地名都包含了吧）
 // 相关译名主要参考魔戒中文维基：https://lotr.huijiwiki.com（但有几个是按照我习惯的译名，例如：Orcrist：兽咬剑）
-// ！！人名基本上是禁翻的除了少数几个（因为个人习惯喜欢看原名而且可以规避不同版本翻译造成的差异）
-// 分类不是很严谨还有点混乱，如果有错误我很抱歉，请别介意（顶锅盖跑走）
+// ！！人名基本上是禁翻的除了少数几个（因为个人习惯喜欢看原名而且可以规避一下不同版本翻译造成的阅读差异）
+// 分类不是很严谨还有点混乱，如果有错误我很抱歉，请见谅（顶锅盖跑走）
 // ============================================
 
 词条
@@ -27,6 +27,7 @@ Buckland：雄鹿地
 Lonely Mountain：孤山
 Kingdom under the Mountain：山下王国
 Grey Mountains：灰色山脉
+Ered Mithrin：灰色山脉
 Iron Hills：铁丘陵
 Belegost：贝烈戈斯特
 Glittering Caves：晶辉洞
@@ -45,6 +46,17 @@ Númenor：努门诺尔
 Mount Gundabad：贡达巴德山
 Rhudaur：鲁道尔
 Kingdom of Dale：河谷邦
+Arthedain：阿塞丹
+Cardolan：卡多蓝
+Forochel：佛洛赫尔冰湾
+Harad：哈拉德地区
+Khand：可汗德
+Valinor：维林诺
+Aman：阿门洲
+Doriath：多瑞亚斯
+Hithlum：希斯路姆
+Belfalas：贝尔法拉斯
+Pelennor Fields：佩兰诺平野
 
 // ---------- 城市与要塞 ----------
 Minas Tirith：米那斯提力斯
@@ -52,10 +64,10 @@ Minas Morgul：米那斯魔古尔
 Minas Ithil：米那斯伊希尔
 Osgiliath：欧斯吉利亚斯
 Pelargir：佩拉基尔
-Barad-dûr：巴拉督尔
+"Barad-dûr"：巴拉督尔
 Cirith Ungol：奇立斯乌苟
 Hornburg：号角堡
-Helm's Deep：海尔姆深谷
+"Helm's Deep"：海尔姆深谷
 Dol Amroth：多阿姆洛斯
 Edhellond：埃蒂尔泷德
 Harlond：哈泷德
@@ -76,22 +88,22 @@ Moria：摩瑞亚
 Grey Havens：灰港
 Hobbiton：霍比屯
 Bywater：傍水镇
-Lake-town：长湖镇
-
+"Lake-town"：长湖镇
+Black Gate：黑门
 
 // ---------- 山川河流丘陵 ----------
 Anduin：安都因河
 Misty Mountains：迷雾山脉
 White Mountains：白色山脉
-Blue Mountains：蓝色山脉
-Ered Luin：蓝色山脉
+Blue Mountains：蓝山
+Ered Luin：蓝山
 Ravenhill：渡鸦岭
 Mount Doom：末日火山
 Ephel Dúath：埃斐尔度阿斯
 Ered Lithui：埃瑞德砾苏伊
 Caradhras：卡拉霍拉斯
 Celebdil：凯勒布迪尔
-Fanuidhol：法怒德霍尔
+Fanuidhol：法努伊索尔
 Baranduin：白兰地河
 Brandywine River：白兰地河
 Entwash：恩特河
@@ -113,7 +125,7 @@ Amon Dîn：阿蒙丁
 Eilenach：艾莱那赫
 Nardol：纳多
 Erelas：埃瑞拉斯
-Min-Rimmon：明里蒙
+"Min-Rimmon"：明里蒙
 Calenhad：卡伦哈德
 Halifirien：哈利菲瑞恩
 Mindolluin：明多路因
@@ -125,11 +137,14 @@ Emyn Muil：埃敏穆伊丘陵
 Emyn Arnen：埃敏阿尔能丘陵
 Weather Hills：风云丘陵
 Weathertop：风云顶
-Barrow-downs：古冢岗
+"Barrow-downs"：古冢岗
 South Downs：南岗
 Tower Hills：塔丘
 Far Downs：远岗
 Green Hills：绿丘陵
+Cerin Amroth：凯林阿姆洛斯
+Amon Rûdh：阿蒙如兹
+Thangorodrim：桑戈洛锥姆
 
 // ---------- 森林与水域 ----------
 Fangorn Forest：法贡森林
@@ -146,6 +161,7 @@ Cobas Haven：科巴斯港
 Swanfleet：天鹅泽
 Midgewater Marshes：蚊水泽
 Dead Marshes：死亡沼泽
+Mirrormere：镜影湖
 
 // ---------- 岛屿与渡口 ----------
 Cair Andros：凯尔安德洛斯
@@ -156,21 +172,22 @@ Undertowers：下塔
 Erui Ford：埃茹伊河渡口
 Poros Ford：波罗斯河渡口
 Crossings of Erui：埃茹伊河渡口
-Cross-roads：十字路口
+"Cross-roads"：十字路口
 
 // ---------- 道路与关口 ----------
 Great East Road：东大道
 Greenway：绿道
-North-South Road：南北大道
+"North-South Road"：南北大道
 West Road：西大道
 South Road：南大道
 Old South Road：南大道
-Morgul-road：魔古尔路
+"Morgul-road"：魔古尔路
 Harad Road：哈拉德路
 North Stair：北阶梯
 Path of the Dead：亡者之路
 Gondrant：刚德兰特
-Tarlang's Neck：塔朗颈
+"Tarlang's Neck"：塔朗颈
+Cirith Gorgor：奇立斯戈埚
 
 // ---------- 建筑与遗迹 ----------
 Bag End：袋底洞
@@ -179,7 +196,7 @@ Argonath：阿刚那斯
 White Pillar：白柱
 Tomb of Elendil：埃兰迪尔之墓
 Mundburg：蒙德堡
-Haudh-in-Gwanûr：豪兹-因-格瓦努尔
+"Haudh-in-Gwanûr"：豪兹-因-格瓦努尔
 Orthanc：欧尔桑克
 Isengard：艾森加德
 Angrenost：安格瑞诺斯特
@@ -191,40 +208,28 @@ Narchost：纳霍斯特
 Brandy Hall：白兰地厅
 Green Dragon：绿龙酒馆
 
-// ---------- 种族 ----------
-Ainur：爱努
-Elves：精灵
-Men：人类
-Dwarves：矮人
-Hobbits：霍比特人
-Ents：恩特
-Orcs：奥克
-Half-orcs：半奥克
-Trolls：食人妖
-Goblins:哥布林
-Eagles：大鹰
-Dragons：恶龙
-Wolves：恶狼
-Spiders：蜘蛛
-Nazgûl：那兹古尔
-Uruk-hai：乌鲁克
-Wargs：座狼
-Balrogs：炎魔
-Werewolves：妖狼
-
 // ---------- 武器与器物 ----------
 Glamdring：格拉姆德凛
 Gurthang：古尔桑
 Dagmor：达格墨
 Eket：埃凯特
-Morgul-blade：魔窟剑
+"Morgul-knife"：魔古尔之刃
+"Morgul-blade"：魔窟剑
 Orcrist：兽咬剑
-Sting：刺叮
+Sting：刺叮剑
 Andúril：安督利尔
 Narsil：纳熙尔
 Aeglos：埃格洛斯
 Anglachel：安格拉赫尔
 The One Ring：至尊戒
+Three Rings：精灵三戒
+The Three Rings：精灵三戒
+Seven Rings：矮人七戒
+Nine Rings：人类九戒
+Ring of Barahir：巴拉希尔之戒
+Phial of Galadriel：加拉德瑞尔水晶瓶
+"Star-glass"：星光水晶瓶
+"Dragon-helm of Dor-lómin"：多尔罗明龙盔
 
 // ---------- 其他专用术语和常用翻译 ----------
 Palantíri：帕蓝提尔
@@ -240,10 +245,13 @@ Orkish：奥克语
 Sindarin：辛达语
 Quenya：昆雅语
 Khuzdul：库兹都语
-Durin's Day：都林之日
-Thain：长官
+Adûnaic：阿督耐克语
+Entish：恩特语
+Valarin：维拉语
+Ainur：爱努
+"Durin's Day"：都林之日
+Thain：夏尔长官
 Burglar：飞贼
-Ravens：渡鸦
 Strider：大步佬
 Eru Ilúvatar：伊露维塔
 Valar：维拉
@@ -255,62 +263,48 @@ Morgoth：魔苟斯
 Smaug：史矛革
 Witch-king of Angmar：安格玛巫王
 Gollum：咕噜
-Sauron：索隆
 Durin：都林
-River-woman：河婆
+"River-woman"：河婆
 Tom Bombadil：汤姆·邦巴迪尔
 Goldberry：金莓
 Great Eagle：鹰王
 Shadowfax：捷影
 Snowmane：雪鬃
 Arod：阿罗德
+Ancalagon：黑龙安卡拉刚
 
 
 // ============================================================
 // 通用词条区（不区分大小写）
 // ============================================================ 
 通用词条
-
-middle-earth：中洲
+"middle-earth"：中洲
 middle earth：中洲
 ringwraith：戒灵
-ring-wraith：戒灵
+"ring-wraith"：戒灵
 dark lord：黑暗魔君
 dark tower：暗黑塔
+"barrow-wight"：古冢尸妖
+"horse-lords"：洛汗骠骑
+
 
 // ============================================================
 // 禁翻词条区（区分大小写）
 // 人名全部禁翻除了少数几个，含姓氏及氏族名
 // ============================================================
 禁翻词条
-
-
-// -----  巫师 & 迈雅（含别名）-----
-Gandalf
-Mithrandir
-Olórin
-Olorin
-Incanus
-Tharkûn
-Saruman
-Radagast
-
-// ----- 精灵（含主要角色）-----
-// 半精灵及第三纪元
-Elrond
-Arwen
-Elladan
-Elrohir
-Galadriel
-Celeborn
-Legolas
-Thranduil
-Glorfindel
-Círdan
-Gil-galad
-Elros
-
-// 第一纪元诺多族（芬威家族）
+//  ---------- 《精灵宝钻》第一纪元人物 ----------
+// 一如、维拉、迈雅
+Eru
+Mandos
+Varda
+Ulmo
+Gothaur
+// 凡雅族精灵
+Ingwë
+Indis
+Eärwen
+// 芬威家族·诺多族
 Finwë
 Fëanor
 Maedhros
@@ -327,88 +321,57 @@ Aredhel
 Argon
 Idril
 Ecthelion
-Glorfindel
 Rog
 Egalmoth
 Galdor
 Duilin
 Penlod
 Salgant
-Erestor
 Finarfin
 Finrod
 Felagund
 Angrod
 Aegnor
 Orodreth
-Galadriel
-Celeborn
-
-// 辛达族（灰精灵）
+// 辛达族精灵
 Thingol
 Melian
 Lúthien
 Dior
 Nimloth
 Elwing
-Celeborn
 Oropher
-Thranduil
-Legolas
 Saeros
 Mablung
 Beleg
 Cúthalion
+// 人类
+Hador
+Húrin
+Túrin
+Beren
+Tuor
+Eärendil
 
-// 凡雅族（光明精灵）
-Ingwë
-Indis
-Eärwen
-
-
-// ----- 霍比特人姓氏（主要角色）-----
-Baggins
-Brandybuck
-Took
-Gamgee
-Bolger
-Proudfoot
-Sackville-Baggins    
- 
-// ----- 霍比特人（主要角色和一些同人里常出现的亲戚）-----
-Frodo
-Frodo Baggins
-Sam
-Samwise
-Samwise Gamgee
-Merry
-Merry Brandybuck
-Meriadoc Brandybuck
-Pippin
-Peregrin Took
-Bilbo
-Bilbo Baggins
-Belladonna Took       // 比尔博之母，图克家族族长之女
-Bungo Baggins         // 比尔博之父，以建造袋底洞闻名
-Bingo Baggins         // 比尔博的堂侄，原为弗罗多的早期命名原型
-Otho Sackville-Baggins // 比尔博的堂弟，觊觎袋底洞
-Lobelia Sackville-Baggins //Otho 之妻，曾偷窃比尔博的餐具
-Rosie Cotton          //山姆的恋人/妻子，夏尔人
-Hamfast Gamgee       // 山姆之父
-Gaffer Gamgee        // 老甘姆吉（昵称）
-Drogo Baggins        // 弗罗多之父
-Primula Brandybuck   // 弗罗多之母
-Rory Brandybuck      // 梅里祖父
-Saradoc Brandybuck   // 梅里之父
-Esmeralda Took       // 梅里之母
-Paladin Took         // 皮平之父
-Eglantine Took       // 皮平之母
-Angelica Baggins     // 比尔博堂侄女
-Folco Boffin         // 弗罗多朋友
-Fredegar Bolger      // 胖子博尔格
-Farmer Maggot        // 麦格特农夫
-
-// ----- 矮人（主要角色）-----               
+// ---------- 《霍比特人》----------
+// 巫师
+Gandalf
+Mithrandir
+Olórin
+Olorin
+Incanus
+Tharkûn
+Saruman
+Radagast
+// 精灵
+Thranduil
+Legolas
+Círdan
+Galadriel
+Celeborn
+Glorfindel
+Erestor
+// 矮人
 Thorin
 Thorin Oakenshield
 Fíli
@@ -429,10 +392,68 @@ Thrór
 Thráin
 Frerin
 Dís
-Gimli
 Náin
+Ri
+// 霍比特人
+Bilbo
+Bilbo Baggins
+Belladonna Took       // 比尔博之母，图克家族族长之女
+Bungo Baggins         // 比尔博之父，以建造袋底洞闻名
+Bingo Baggins         // 比尔博的堂侄，原为弗罗多的早期命名原型
+"Otho Sackville-Baggins" // 比尔博的堂弟，觊觎袋底洞
+"Lobelia Sackville-Baggins" //Otho 之妻，曾偷窃比尔博的餐具
+// 人类
+Bard
+Brand
+Beorn
+// 其他
+Azog
+Bolg
 
-// ----- 人类（刚铎、洛汗、河谷城等）-----
+// ---------- 《魔戒》 ----------
+// 霍比特人 （姓氏族名）
+Baggins
+Brandybuck
+Took
+Gamgee
+Bolger
+Proudfoot
+"Sackville-Baggins"
+// 霍比特人（主要角色及部分亲戚）
+Frodo
+Frodo Baggins
+Sam
+Samwise
+Samwise Gamgee
+Merry
+Merry Brandybuck
+Meriadoc Brandybuck
+Pippin
+Peregrin Took
+Rosie Cotton          //山姆的恋人/妻子，夏尔人
+Hamfast Gamgee       // 山姆之父
+Gaffer Gamgee        // 老甘姆吉（昵称）
+Drogo Baggins        // 弗罗多之父
+Primula Brandybuck   // 弗罗多之母
+Rory Brandybuck      // 梅里祖父
+Saradoc Brandybuck   // 梅里之父
+Esmeralda Took       // 梅里之母
+Paladin Took         // 皮平之父
+Eglantine Took       // 皮平之母
+Angelica Baggins     // 比尔博堂侄女
+Folco Boffin         // 弗罗多朋友
+Fredegar Bolger      // 胖子博尔格
+Farmer Maggot        // 麦格特农夫
+// 矮人            
+Gimli
+// 精灵
+Elrond
+Arwen
+Elladan
+Elrohir
+"Gil-galad"
+Elros
+// 人类 （刚铎/洛汗/努门诺尔）
 Aragorn
 Estel
 Thorongil
@@ -444,38 +465,29 @@ Denethor II
 Théoden
 Éomer
 Éowyn
-Bard
-Brand
-Beorn
 Eärnur
 Anárion
 Isildur
 Elendil
-Tar-Minastir
-Ar-Pharazôn
+"Tar-Minastir"
+"Ar-Pharazôn"
 Amandil
-Tuor
-Túrin
-Húrin
-Beren
-Dior
-Eärendil
-Elwing
-Idril
-Ecthelion
 Arathorn II
 Gilraen
-
-// ----- 其他-----
+Helm Hammerhand
+Thengel
+Eorl
+// 其他
+Sauron
 Sméagol
 Shelob
-Azog
-Bolg
+Khamûl
+Ugluk
+Grishnákh
 Treebeard
 Quickbeam
-Goldberry
 
-// ----- 电影原创-----
+// ---------- 电影原创 ----------
 Tauriel
 Alfrid Lickspittle    //长湖镇副镇长
 Sigrid                //巴德之女
@@ -487,21 +499,44 @@ Bain                  //巴德之子
 // 正则表达式区
 // ============================================================
 正则表达式
-(?i)F[ií]li
-(?i)K[ií]li
-(?i)[Eé]omer
-(?i)[Eé]owyn
-(?i)[Tt]h[eé]oden
-(?i)L[uú]thien
-(?i)E[äa]rendil
-(?i)E[äa]rnur
-(?i)Ar-Pharaz[ôo]n
-(?i)H[uú]rin
-(?i)T[uú]rin
-(?i)F[ëe]anor
-(?i)Thr[áa]in
-(?i)[Oo]l[óo]rin
-(?i)Fing[oó]lfin 
-(?i)Finw[ëe]  
-(?i)[Oó]in         
-(?i)Gl[óo]in  
+// ---------- 人名重音 ----------
+\bF[ií]l[ií]\b: Fíli
+\bK[ií]l[ií]\b: Kíli
+\b[EÉ]omer\b: Éomer
+\b[EÉ]owyn\b: Éowyn
+\bTh[eé]oden\b: Théoden
+\bL[uú]thien\b: Lúthien
+\bE[äa]rendil\b: Eärendil
+\bE[äa]rnur\b: Eärnur
+\bAr-Pharaz[ôo]n\b: Ar-Pharazôn
+\bH[uú]rin\b: Húrin
+\bT[uú]rin\b: Túrin
+\bF[ëe]anor\b: Fëanor
+\bOl[óo]rin\b: Olórin
+\bFing[oó]lfin\b: Fingólfin
+\bFinw[ëe]\b: Finwë
+\b[OÓ]in\b: Óin
+\bGl[óo]in\b: Glóin
+
+// ---------- 种族单复数和变体 ----------
+\bM(?:an|en)\b : 人类
+\b(?i)E(?:lf|lves)\b : 精灵
+\b(?i)Dwar(?:f|ves)\b : 矮人
+\b(?i)Hobbi(?:t|ts)\b : 霍比特人
+\b(?i)En(?:t|ts)\b : 恩特
+\b(?i)Or(?:c|cs)\b : 奥克
+\b(?i)Half-or(?:c|cs)\b : 半奥克
+\b(?i)Trol(?:l|ls)\b : 食人妖
+\b(?i)Gobli(?:n|ns)\b : 哥布林
+\b(?i)Eagl(?:e|es)\b : 大鹰
+\b(?i)War(?:g|gs)\b : 座狼
+\b(?i)Balro(?:g|gs)\b : 炎魔
+\b(?i)Werew(?:olf|olves)\b : 妖狼
+\b(?i)Uruk-hai\b : 乌鲁克
+\b(?i)Nazg[ûu]l\b : 那兹古尔
+
+//---------- 其他 ----------
+\b(?i)Silmari(?:l|ls)\b：精灵宝钻
+\b(?i)Rave(?:n|ns)\b: 渡鸦
+ 
+ 
