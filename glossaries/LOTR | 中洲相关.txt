@@ -1,4 +1,4 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：panverus
 更新时间：2026-07-23
 
@@ -208,50 +208,12 @@ Narchost：纳霍斯特
 Brandy Hall：白兰地厅
 Green Dragon：绿龙酒馆
 
-// ---------- 武器与器物 ----------
-Glamdring：格拉姆德凛
-Gurthang：古尔桑
-Dagmor：达格墨
-Eket：埃凯特
-"Morgul-knife"：魔古尔之刃
-"Morgul-blade"：魔窟剑
-Orcrist：兽咬剑
-Sting：刺叮剑
-Andúril：安督利尔
-Narsil：纳熙尔
-Aeglos：埃格洛斯
-Anglachel：安格拉赫尔
-The One Ring：至尊戒
-Three Rings：精灵三戒
-The Three Rings：精灵三戒
-Seven Rings：矮人七戒
-Nine Rings：人类九戒
-Ring of Barahir：巴拉希尔之戒
-Phial of Galadriel：加拉德瑞尔水晶瓶
-"Star-glass"：星光水晶瓶
-"Dragon-helm of Dor-lómin"：多尔罗明龙盔
-
 // ---------- 其他专用术语和常用翻译 ----------
 Palantíri：帕蓝提尔
 Silmarils：精灵宝钻
 Arkenstone：阿肯宝钻
-Mithril：秘银
-Lembas：兰巴斯
-Miruvor：米卢沃尔
-Elven-cloak：精灵斗篷
-Black Speech：黑语
-Westron：西部语
-Orkish：奥克语
-Sindarin：辛达语
-Quenya：昆雅语
-Khuzdul：库兹都语
-Adûnaic：阿督耐克语
-Entish：恩特语
-Valarin：维拉语
-Ainur：爱努
 "Durin's Day"：都林之日
 Thain：夏尔长官
-Burglar：飞贼
 Strider：大步佬
 Eru Ilúvatar：伊露维塔
 Valar：维拉
@@ -279,40 +241,105 @@ Men：人类
 // 通用词条区（不区分大小写）
 // ============================================================ 
 通用词条
+// ---------- 纪元与时间 ----------
+Years of the Lamps: 巨灯纪元
+Years of the Trees：双树纪元
+First Age：第一纪元
+Second Age：第二纪元
+Third Age：第三纪元
+Fourth Age：第四纪元
+
+// ---------- 武器与器物 ----------
+Glamdring：格拉姆德凛
+Gurthang：古尔桑
+Dagmor：达格墨
+Eket：埃凯特
+"Morgul-knife"：魔古尔之刃
+"Morgul-blade"：魔窟剑
+Orcrist：兽咬剑
+Sting：刺叮剑
+Andúril：安督利尔
+Narsil：纳熙尔
+Aeglos：埃格洛斯
+Anglachel：安格拉赫尔
+The One Ring：至尊戒
+Three Rings：精灵三戒
+The Three Rings：精灵三戒
+Seven Rings：矮人七戒
+Nine Rings：人类九戒
+Ring of Barahir：巴拉希尔之戒
+Phial of Galadriel：加拉德瑞尔水晶瓶
+"Star-glass"：星光水晶瓶
+"Dragon-helm of Dor-lómin"：多尔罗明龙盔
+
+// ---------- 其他 ----------
 "middle-earth"：中洲
 middle earth：中洲
 ringwraith：戒灵
 "ring-wraith"：戒灵
 dark lord：黑暗魔君
+The Necromancer: 死灵法师
 dark tower：暗黑塔
 "barrow-wight"：古冢尸妖
 "horse-lords"：洛汗骠骑
+Burglar: 飞贼
+Halflings: 半身人
+Mithril：秘银
+Lembas：兰巴斯
+Miruvor：米茹沃
+Elven-cloak：精灵斗篷
+Black Speech：黑语
+Westron：西部语
+Orkish：奥克语
+Sindarin：辛达语
+Quenya：昆雅语
+Khuzdul：库兹都语
+Adûnaic：阿督耐克语
+Entish：恩特语
+Valarin：维拉语
+Ainur：爱努
+Two Trees of Valinor: 维林诺双圣树
 
 
 // ============================================================
 // 禁翻词条区（区分大小写）
-// 人名全部禁翻除了少数几个，含姓氏及氏族名
+// 人名全部禁翻（除了少数几个，含姓氏及氏族名）
 // ============================================================
 禁翻词条
-//  ---------- 《精灵宝钻》第一纪元人物 ----------
+//  ---------- 《精灵宝钻》 ----------
 // 一如、维拉、迈雅
 Eru
+Manwë
 Mandos
 Varda
 Ulmo
+Yavanna
+Aulë
+Oromë
+Melkor
+Morgoth
+Sauron
+Mairon
 Gothaur
+Ungoliant
 // 凡雅族精灵
 Ingwë
 Indis
 Eärwen
 // 芬威家族·诺多族
 Finwë
+Míriel
+Findis
+Irimë
+Nerdanel
+Anairë
 Fëanor
 Maedhros
 Maglor
 Celegorm
 Caranthir
 Curufin
+Celebrimbor
 Amrod
 Amras
 Fingolfin
@@ -336,6 +363,8 @@ Aegnor
 Orodreth
 // 辛达族精灵
 Thingol
+Olwë
+Elmo
 Melian
 Lúthien
 Dior
@@ -346,12 +375,18 @@ Saeros
 Mablung
 Beleg
 Cúthalion
+Gwindor
+Finduilas
+Eöl
+Maeglin
 // 人类
+Barahir
 Hador
 Húrin
 Túrin
-Beren
+Huor
 Tuor
+Beren
 Eärendil
 
 // ---------- 《霍比特人》----------
@@ -371,6 +406,7 @@ Galadriel
 Celeborn
 Glorfindel
 Erestor
+Galion
 // 矮人
 Thorin
 Thorin Oakenshield
@@ -394,14 +430,16 @@ Frerin
 Dís
 Náin
 Ri
-// 霍比特人
+// 霍比特人（主要角色和亲戚）
 Bilbo
 Bilbo Baggins
-Belladonna Took       // 比尔博之母，图克家族族长之女
-Bungo Baggins         // 比尔博之父，以建造袋底洞闻名
-Bingo Baggins         // 比尔博的堂侄，原为弗罗多的早期命名原型
-"Otho Sackville-Baggins" // 比尔博的堂弟，觊觎袋底洞
-"Lobelia Sackville-Baggins" //Otho 之妻，曾偷窃比尔博的餐具
+Belladonna      // 比尔博之母，图克家族族长之女
+Bungo           // 比尔博之父，以建造袋底洞闻名
+Bingo           // 比尔博的堂侄
+Otho            // 比尔博的堂弟，觊觎袋底洞
+Lobelia         //Otho之妻，曾偷窃比尔博的餐具
+Gerontius       //比尔博的外祖父，图克家族族长
+Bullroarer      //比尔博的曾伯祖父
 // 人类
 Bard
 Brand
@@ -430,20 +468,20 @@ Merry Brandybuck
 Meriadoc Brandybuck
 Pippin
 Peregrin Took
-Rosie Cotton          //山姆的恋人/妻子，夏尔人
-Hamfast Gamgee       // 山姆之父
-Gaffer Gamgee        // 老甘姆吉（昵称）
-Drogo Baggins        // 弗罗多之父
-Primula Brandybuck   // 弗罗多之母
-Rory Brandybuck      // 梅里祖父
-Saradoc Brandybuck   // 梅里之父
-Esmeralda Took       // 梅里之母
-Paladin Took         // 皮平之父
-Eglantine Took       // 皮平之母
-Angelica Baggins     // 比尔博堂侄女
-Folco Boffin         // 弗罗多朋友
-Fredegar Bolger      // 胖子博尔格
-Farmer Maggot        // 麦格特农夫
+Rosie Cotton     //山姆的恋人/妻子，夏尔人
+Hamfast          // 山姆之父
+Gaffer           // 老甘姆吉（昵称）
+Drogo            // 弗罗多之父
+Primula          // 弗罗多之母
+Rory             // 梅里祖父
+Saradoc          // 梅里之父
+Esmeralda        // 梅里之母
+Paladin          // 皮平之父
+Eglantine        // 皮平之母
+Angelica         // 比尔博堂侄女
+Folco Boffin     // 弗罗多朋友
+Fredegar         // 梅里的大舅子,弗罗多朋友
+Farmer Maggot    // 麦格特农夫
 // 矮人            
 Gimli
 // 精灵
@@ -453,7 +491,7 @@ Elrond
 Arwen
 Elladan
 Elrohir
-"Gil-galad"
+Gil-galad
 Elros
 Peredhel
 // 人类 （刚铎/洛汗/努门诺尔）
@@ -472,14 +510,17 @@ Eärnur
 Anárion
 Isildur
 Elendil
-"Tar-Minastir"
-"Ar-Pharazôn"
+Tar-Minastir
+Ar-Pharazôn
 Amandil
 Arathorn II
 Gilraen
 Helm Hammerhand
 Thengel
 Eorl
+Gríma Wormtongue
+Beregond
+Théodred
 // 其他
 Sauron
 Sméagol
@@ -516,29 +557,37 @@ Bain                  //巴德之子
 \bT[uú]rin\b: Túrin
 \bF[ëe]anor\b: Fëanor
 \bOl[óo]rin\b: Olórin
-\bFing[oó]lfin\b: Fingólfin
 \bFinw[ëe]\b: Finwë
 \b[OÓ]in\b: Óin
 \bGl[óo]in\b: Glóin
+\bManw[ëe]\b: Manwë
+\bAul[ëe]\b: Aulë
+\bOrom[ëe]\b: Oromë
+\M[íi]riel\b: Míriel
+\bIrim[ëe]\b: Irimë
+\bAnair[ëe]\b: Anairë
+\bOlw[ëe]\b: Olwë
+\bE[öo]l\b: Eöl
+\bGr[íi]ma\b: Gríma
+\b[ÉE]odred\b: Théodred
 
 // ---------- 种族单复数和变体 ----------
-\b[Ee](?:lf|lves)\b: 精灵
-\b[Dd]war(?:f|ves)\b: 矮人
-\b[Hh]obbi(?:t|ts)\b: 霍比特人
-\b[Ee]n(?:t|ts)\b: 恩特
-\b[Oo]r(?:c|cs)\b: 奥克
-\b[Hh]alf-or(?:c|cs)\b: 半奥克
-\b[Tt]rol(?:l|ls)\b: 食人妖
-\b[Gg]obli(?:n|ns)\b: 哥布林
-\b[Ee]agl(?:e|es)\b: 大鹰
-\b[Ww]ar(?:g|gs)\b: 座狼
-\b[Bb]alro(?:g|gs)\b: 炎魔
-\b[Ww]erew(?:olf|olves)\b: 妖狼
-\b[Uu]ruk-hai\b: 乌鲁克
-\b[Nn]azg[ûu]l\b: 那兹古尔
+(?i)\bElf(?:|ves)\b: 精灵
+(?i)\bDwarf(?:|ves)\b: 矮人
+(?i)\bHobbit(?:|ts)\b: 霍比特人
+(?i)\bEnt(?:|ts)\b: 恩特
+(?i)\bOrc(?:|cs)\b: 奥克
+(?i)\bHalf-orc(?:|cs)\b: 半奥克
+(?i)\bTroll(?:|ls)\b: 食人妖
+(?i)\bGoblin(?:|ns)\b: 哥布林
+(?i)\bEagle(?:|es)\b: 大鹰
+(?i)\bWarg(?:|gs)\b: 座狼
+(?i)\bBalrog(?:|gs)\b: 炎魔
+(?i)\bWerewolf(?:|ves)\b: 妖狼
+(?i)\bNazg[ûu]l\b: 那兹古尔
 
 //---------- 其他 ----------
-\b[Ss]ilmari(?:l|ls)\b: 精灵宝钻
-\b[Rr]ave(?:n|ns)\b: 渡鸦
+(?i)\bSilmaril(s)?\b: 精灵宝钻
+(?i)\bRaven(s)?\b: 渡鸦
  
  
